@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+   
+}
+#oo{
+    color: lawngreen;
+    background-image: url('icon/nature-3082832_640.jpg');
+    background-position: center;
+    width: 1266px;
+    height: 100px;
+    font-weight:bolder
+    font-size: 20px;
+    text-align: center;
+    
+}
+ul{
+    color: rgb(10, 10, 14);
+    background-color: aqua;
+    border: 2px solid rgb(16, 14, 14);
+    padding: 20px;
+    box-shadow: 10px 10px 10px;
+    width: 600px;
+    border-radius: 20px;
+}
+p{
+    color: black;
+    background-color: rgb(72, 95, 35);
+}
+h1{
+    color: rgb(16, 44, 16);
+    background-color: rgb(122, 226, 43);
+    border: 3px double red;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.lo{
+    color: rgb(13, 0, 255);
+    background-color: aquamarine;
+    border: 2px groove rgb(10, 14, 11);
+    text-align: justify;
+    padding: 10px;
+    width: 1000px;
+    font-size: medium;
+}
